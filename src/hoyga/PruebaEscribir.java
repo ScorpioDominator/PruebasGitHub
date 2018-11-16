@@ -10,6 +10,7 @@ public class PruebaEscribir {
 		if(i<2) {
 			System.out.println(exit);
 		}
+		System.out.println("Es usted un impresentable");
 
 	}
 
